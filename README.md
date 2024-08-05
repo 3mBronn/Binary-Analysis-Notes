@@ -1,0 +1,1 @@
+This PDF File is dedicated to an introduction to Linux ELF FIles Structure and Binary Analysis. This PDF file also has solutions of crackme challenges as examples of reverse engineering a file. Enjoy reading and reversing!
